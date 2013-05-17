@@ -1,0 +1,10 @@
+Name: hexii.py
+
+Info
+
+Just a small python script to do a hex dump of a file.  This was meant to
+be a dirty replacement for linux's 'hd' command.
+
+Usage
+
+python hexii.py <file name> <number of bytes>
